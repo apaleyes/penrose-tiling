@@ -1,2 +1,3 @@
-# penrose-tiling
-Generate Penrose tiling in pure Javascript
+# Penrose Tiling
+
+Generate Penrose tiling in pure Javascript.
